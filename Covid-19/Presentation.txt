@@ -1,0 +1,20 @@
+I’m excited to share with you the integral part of our 
+COVID-19-Data-Engineering-and-Analysis-Project, Our flask application.
+With the database ready and populated with the imported data.
+We built a Flask web application that enables users to interact with the data intuitively. ( NEXT SLIDE )
+Flask is a lightweight and flexible web framework in Python that 
+allowed us to create a dynamic and interactive platform for users to explore and analyze our COVID-19 data.
+Users can search for data by country, or view the results in a pandas DataFrame. 
+Flask served as the backbone of our web application and enabled us to create dynamic routes that 
+query the PostgreSQL database in real-time, providing users with relevant data. ( NEXT SLIDE )
+The Flask application also includes a Restful API that outputs data in JSON format.
+By integrating pandas, we were able to display the data in a user-friendly format, with visualizations
+and with the help of the pyarrow library, 
+we ensured that our data processing was both efficient and scalable.
+
+Conclusion: 
+In conclusion, our COVID-19 Data Search Application embodies effective data engineering practices, 
+user-centric design, and ethical responsibility. It provides a reliable platform for exploring COVID-19 data, 
+supporting informed decision-making and contributing to our understanding of data engineering.
+
+If you you have any questions please ask now or forever hold your peace?
